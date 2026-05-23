@@ -92,3 +92,7 @@ The architecture is intentionally layered:
 - Only `Heading` and `Subheading` blocks appear in the TOC; the styles
   inherit outline levels 1 and 2 from `Heading 1` / `Heading 2`.
   `Normal Heading` has no outline level so Word excludes it.
+
+## Enhancements
+- I can add a profile log in or an option to save their projects so that they will be able to get back to their work from where they have left.
+
